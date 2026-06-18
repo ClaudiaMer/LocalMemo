@@ -1,0 +1,17 @@
+Files already downloaded and verified
+Loading data...
+MNIST shape: torch.Size([5000, 3, 32, 32])
+CIFAR shape: torch.Size([5000, 3, 32, 32])
+
+Computing MNIST pairwise distances...
+Computing CIFAR pairwise distances...
+
+MNIST:
+  Mean squared distance: 0.112903
+  Std  squared distance: 0.033774
+
+CIFAR:
+  Mean squared distance: 0.124171
+  Std  squared distance: 0.062446
+MNIST standard deviation tensor(0.2890)
+CIFar10 standard deviation tensor(0.2517)
